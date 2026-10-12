@@ -1,0 +1,6 @@
+{
+  "name": "CineForge AI - 4K Free Cinematic AI Video Generator",
+  "description": "Zero-credit cinematic AI video studio transforming text prompts into realistic films, multi-shot storyboards, and 4K exports with character consistency and dynamic camera angles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
